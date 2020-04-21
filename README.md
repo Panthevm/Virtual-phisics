@@ -1,6 +1,11 @@
 # Virtual-phisics
 
 ## Как запустить проект
+Arch Linux:
+- yay -S unityhub --noconfirm
+- Login
+- Install 2019.3.10f1
+
 
 ## Как будем работать
 Давайте будем делать так: 
