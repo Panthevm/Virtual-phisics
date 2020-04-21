@@ -1,6 +1,8 @@
 # Virtual-phisics
 
 ## Как запустить проект
+
+### Установка
 Arch Linux:
 - yay -S unityhub --noconfirm
 - Login
