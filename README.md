@@ -1,4 +1,4 @@
-# Virtual-phisics
+# Virtual-physics
 
 ## Как запустить проект
 
