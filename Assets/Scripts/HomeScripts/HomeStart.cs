@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class HomeStartScript : MonoBehaviour
+public class HomeStart : MonoBehaviour
 {
     public void ChangeScene(String sceneName)
     {
