@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 8d9076347986c5747857c43f6e759ad2
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 1170606858121798835
+    second: Plane086|Plane085|Plane085|Plane085|Take 001|BaseLayer|Plane085|Plane085
+  - first:
+      74: -7856447263799656642
+    second: Plane086|Plane085|Plane085|Plane086|Take 001|BaseLayer|Plane085|Plane086
+  - first:
+      74: -6025358331477062564
+    second: Plane086|Plane085|Plane085|Plane087|Take 001|BaseLayer|Plane085|Plane087
+  - first:
+      74: -6970298426325548232
+    second: Plane086|Plane085|Plane085|Plane088|Take 001|BaseLayer|Plane085|Plane088
+  - first:
+      74: -7146300306750339207
+    second: Plane086|Plane085|Plane085|Plane089|Take 001|BaseLayer|Plane085|Plane089
+  - first:
+      74: -2800463819661798919
+    second: Plane086|Plane085|Plane085|Plane090|Take 001|BaseLayer|Plane085|Plane090
+  - first:
+      74: -8832526344484566303
+    second: Plane086|Plane086|Plane086|Plane085|Take 001|BaseLayer|Plane086|Plane085
+  - first:
+      74: 1424476019369087761
+    second: Plane086|Plane086|Plane086|Plane086|Take 001|BaseLayer|Plane086|Plane086
+  - first:
+      74: 4266236639793842753
+    second: Plane086|Plane086|Plane086|Plane087|Take 001|BaseLayer|Plane086|Plane087
+  - first:
+      74: 405233507970902240
+    second: Plane086|Plane086|Plane086|Plane088|Take 001|BaseLayer|Plane086|Plane088
+  - first:
+      74: 5717614984350650213
+    second: Plane086|Plane086|Plane086|Plane089|Take 001|BaseLayer|Plane086|Plane089
+  - first:
+      74: -566099887666391178
+    second: Plane086|Plane086|Plane086|Plane090|Take 001|BaseLayer|Plane086|Plane090
+  - first:
+      74: -8191608160404175018
+    second: Plane086|Plane087|Plane087|Plane085|Take 001|BaseLayer|Plane087|Plane085
+  - first:
+      74: -90921994397180295
+    second: Plane086|Plane087|Plane087|Plane086|Take 001|BaseLayer|Plane087|Plane086
+  - first:
+      74: -5951652122165879022
+    second: Plane086|Plane087|Plane087|Plane087|Take 001|BaseLayer|Plane087|Plane087
+  - first:
+      74: 7774269391886950393
+    second: Plane086|Plane087|Plane087|Plane088|Take 001|BaseLayer|Plane087|Plane088
+  - first:
+      74: 2865632704479278914
+    second: Plane086|Plane087|Plane087|Plane089|Take 001|BaseLayer|Plane087|Plane089
+  - first:
+      74: 5967656322971213202
+    second: Plane086|Plane087|Plane087|Plane090|Take 001|BaseLayer|Plane087|Plane090
+  - first:
+      74: -4302995180439052084
+    second: Plane086|Plane088|Plane088|Plane085|Take 001|BaseLayer|Plane088|Plane085
+  - first:
+      74: 5016870664852426257
+    second: Plane086|Plane088|Plane088|Plane086|Take 001|BaseLayer|Plane088|Plane086
+  - first:
+      74: 1904023641335056556
+    second: Plane086|Plane088|Plane088|Plane087|Take 001|BaseLayer|Plane088|Plane087
+  - first:
+      74: -2380342880272715943
+    second: Plane086|Plane088|Plane088|Plane088|Take 001|BaseLayer|Plane088|Plane088
+  - first:
+      74: -7694027051640547271
+    second: Plane086|Plane088|Plane088|Plane089|Take 001|BaseLayer|Plane088|Plane089
+  - first:
+      74: -9187896701520701392
+    second: Plane086|Plane088|Plane088|Plane090|Take 001|BaseLayer|Plane088|Plane090
+  - first:
+      74: -6284811390075912866
+    second: Plane086|Plane089|Plane089|Plane085|Take 001|BaseLayer|Plane089|Plane085
+  - first:
+      74: -2701561897438830874
+    second: Plane086|Plane089|Plane089|Plane086|Take 001|BaseLayer|Plane089|Plane086
+  - first:
+      74: -2638143210054192988
+    second: Plane086|Plane089|Plane089|Plane087|Take 001|BaseLayer|Plane089|Plane087
+  - first:
+      74: -249612506368631480
+    second: Plane086|Plane089|Plane089|Plane088|Take 001|BaseLayer|Plane089|Plane088
+  - first:
+      74: -3416647143159356832
+    second: Plane086|Plane089|Plane089|Plane089|Take 001|BaseLayer|Plane089|Plane089
+  - first:
+      74: 8492185957637057120
+    second: Plane086|Plane089|Plane089|Plane090|Take 001|BaseLayer|Plane089|Plane090
+  - first:
+      74: -7780770841493365594
+    second: Plane086|Plane090|Plane090|Plane085|Take 001|BaseLayer|Plane090|Plane085
+  - first:
+      74: 6753482243386511005
+    second: Plane086|Plane090|Plane090|Plane086|Take 001|BaseLayer|Plane090|Plane086
+  - first:
+      74: -8092730712672095988
+    second: Plane086|Plane090|Plane090|Plane087|Take 001|BaseLayer|Plane090|Plane087
+  - first:
+      74: -1837895742356541478
+    second: Plane086|Plane090|Plane090|Plane088|Take 001|BaseLayer|Plane090|Plane088
+  - first:
+      74: 8501274230980765446
+    second: Plane086|Plane090|Plane090|Plane089|Take 001|BaseLayer|Plane090|Plane089
+  - first:
+      74: -8461015792875382761
+    second: Plane086|Plane090|Plane090|Plane090|Take 001|BaseLayer|Plane090|Plane090
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
