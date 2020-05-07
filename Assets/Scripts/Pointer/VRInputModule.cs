@@ -33,7 +33,6 @@ public class VRInputModule : BaseInputModule
 
         if (m_ClickAction.GetStateDown(m_TargetSource))
             ProccessPress(m_Data);
-
         if (m_ClickAction.GetStateUp(m_TargetSource))
             ProcessRelease(m_Data);
     }
