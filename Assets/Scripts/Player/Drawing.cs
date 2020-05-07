@@ -8,7 +8,9 @@ public class Drawing : MonoBehaviour
     public SteamVR_Input_Sources m_TargetSource;
     public SteamVR_Action_Boolean m_ClickAction;
     public GameObject m_TrackedObj;
-    public LineRenderer m_Line;
+    public Material material;
+
+    private LineRenderer line;
 
     private int numClicks = 0;
 
@@ -17,14 +19,20 @@ public class Drawing : MonoBehaviour
 
         if (m_ClickAction.GetStateDown(m_TargetSource))
         {
-            Debug.Log("Press down");
-            numClicks = 0;
+            GameObject go = new GameObject();
+            line = go.AddComponent<LineRenderer>();
 
+            line.SetWidth(0.03f, 0.04f);
+
+            line.material = material;
+            
+            numClicks = 0;
         }
+
         else if (m_ClickAction.GetState(m_TargetSource))
         {
-            m_Line.positionCount = numClicks + 1;
-            m_Line.SetPosition(numClicks, m_TrackedObj.transform.position);
+            line.positionCount = numClicks + 1;
+            line.SetPosition(numClicks, m_TrackedObj.transform.position);
             numClicks++;
         }
 
